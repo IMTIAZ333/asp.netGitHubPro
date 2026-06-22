@@ -2,5 +2,6 @@
 {
     public class dataclass
     {
+     public string name {get;set}
     }
 }
