@@ -5,5 +5,6 @@ namespace asp.netGitHubPro.Models
     public class dataclass
     {
      public string name {get;set}
+        public string address {get;set}
     }
 }
